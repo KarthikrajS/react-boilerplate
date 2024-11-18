@@ -19,8 +19,10 @@ A production-ready frontend boilerplate built with React.js and Vite. This setup
 
 ### **Clone the Repository**
 
-`npx degit KarthikrajS/frontend-boilerplate my-frontend
-cd my-frontend` 
+```
+npx degit KarthikrajS/frontend-boilerplate my-frontend
+cd my-frontend
+```
 
 ### **Install Dependencies**
 
