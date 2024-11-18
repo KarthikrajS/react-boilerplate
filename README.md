@@ -19,18 +19,10 @@ A production-ready frontend boilerplate built with React.js and Vite. This setup
 
 ### **Clone the Repository**
 
-bash
-
-Copy code
-
 `npx degit KarthikrajS/frontend-boilerplate my-frontend
 cd my-frontend` 
 
 ### **Install Dependencies**
-
-bash
-
-Copy code
 
 `npm install` 
 
@@ -40,10 +32,6 @@ Copy code
 
 Start the frontend development server:
 
-bash
-
-Copy code
-
 `npm run dev` 
 
 The app will run at `http://localhost:5173` by default.
@@ -52,11 +40,9 @@ The app will run at `http://localhost:5173` by default.
 
 ## **Folder Structure**
 
-graphql
 
-Copy code
-
-`frontend/
+```
+frontend/
 ├── public/                # Static assets
 ├── src/
 │   ├── components/        # Reusable components
@@ -68,7 +54,8 @@ Copy code
 │   └── index.css          # Global CSS file
 ├── tailwind.config.js     # TailwindCSS configuration
 ├── vite.config.js         # Vite configuration
-└── package.json           # Project metadata and dependencies` 
+└── package.json           # Project metadata and dependencies
+``` 
 
 ----------
 
